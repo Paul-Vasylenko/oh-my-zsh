@@ -4,7 +4,7 @@ sudo apt install -y zsh
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-cp h1lary.zsh-theme ~/.oh_my_zsh/themes/
+cp h1lary.zsh-theme ~/.oh-my-zsh/themes/
 
 echo 'ZSH_THEME="h1lary"' >> ~/.zshrc
 
